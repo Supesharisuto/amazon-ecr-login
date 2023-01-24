@@ -66,3 +66,8 @@ typings/
 
 # Extra files
 .idea
+
+# Local artifacts
+*.#*.yml
+*.#*.yaml
+*.~undo-tree~

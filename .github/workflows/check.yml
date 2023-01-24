@@ -1,5 +1,8 @@
 on:
-  [pull_request]
+  push:
+    branches:
+      #- 'main'
+      - 'node16'
 
 name: Check
 
